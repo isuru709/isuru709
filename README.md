@@ -3,7 +3,7 @@
 # 👨‍💻 I'm Sampath
 
 🎓 CSE Undergraduate at **University of Moratuwa**  
-🌐 Portfolio: [My Website](https://isuru709.github.io/My_page/Home_Page.html)  
+🌐 My Public Softwares: [My Website](https://isuru709.github.io/My_page/Home_Page.html)  
 
 💡 I’m passionate about:
 - 🚀 Software Development  
