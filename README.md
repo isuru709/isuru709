@@ -37,8 +37,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/) _(add your link)_  
-- 📧 Email: `your_email@example.com`  
+- 💼 [LinkedIn](https://www.linkedin.com/in/isuru-sampath-563095245/) 
+- 📧 Email: `isurudananjaya907@gmail.com`  
 
 ---
 
