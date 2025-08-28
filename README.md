@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
 
-<!--
-**isuru709/isuru709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 I'm Sampath
 
-Here are some ideas to get you started:
+🎓 CSE Undergraduate at **University of Moratuwa**  
+🌐 Portfolio: [My Website](https://isuru709.github.io/My_page/Home_Page.html)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m passionate about:
+- 🚀 Software Development  
+- 🤖 Artificial Intelligence & Machine Learning  
+- ⚙️ Systems Design & Engineering  
+- 🌍 Open Source Projects  
+
+---
+
+### 🔧 Technologies & Tools
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Currently Learning
+- Advanced **C++ & OOP**  
+- **Operating Systems** (concepts & implementation)  
+- Basics of **AI & Machine Learning**  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/) _(add your link)_  
+- 📧 Email: `your_email@example.com`  
+
+---
+
+⭐️ *“Keep learning, keep building, and keep growing!”*
