@@ -5,8 +5,8 @@
 🎓 CSE Undergraduate at **University of Moratuwa**  
 🌐 My Public Softwares: [My Website](https://isuru709.github.io/My_page/Home_Page.html)  
 🌐 Universal Video Downloader: [Uni Video Downloader](http://159.89.195.242:8080/)  
-🌐 My Privet Domain:isuruhub.site
-🌐 My Privet Server:159.89.195.242
+🌐 My Privet Domain:[My Website](http://isuruhub.site/)                                                                            
+🌐 My Privet Server:159.89.195.242                                                                                                 
 
 💡 I’m passionate about:
 - 🚀 Software Development  
