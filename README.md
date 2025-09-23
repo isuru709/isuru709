@@ -3,10 +3,10 @@
 # 👨‍💻 I'm Sampath
 
 🎓 CSE Undergraduate at **University of Moratuwa**  
-🌐 My Public Softwares: [My Website](https://isuruhub.site/)  
+🌐 Public Software: [My Website](https://isuruhub.site/)  
 🌐 Universal Video Downloader: [Uni Video Downloader](https://uni.isuruhub.site:8443/)  
-🌐 My Private Domain: [isuruhub.site](https://isuruhub.site/)                                                                            
-🌐 My Private Server: 159.89.195.242                                                                                                 
+🌐 Private Domain: [isuruhub.site](https://isuruhub.site/)                                                                            
+🌐 Private Server: 159.89.195.242
 
 💡 I’m passionate about:
 - 🚀 Software Development  
@@ -28,12 +28,13 @@
 ---
 
 ### 📊 GitHub Stats
-![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical)
+<!-- Tip: bump v=3 to v=4 if you need to force-refresh the cached image -->
+![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=3)
 
 ---
 
 ### 📚 Languages Used (Summary)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isuru709&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isuru709&layout=compact&theme=radical&cache_seconds=1800&v=3)
 
 ---
 
@@ -46,7 +47,9 @@
   [![Website Preview of uni.isuruhub.site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
 
 <!--
-If the dynamic preview for uni.isuruhub.site:8443 doesn't load due to rate limits/SSL/port, upload a screenshot (e.g., uni-preview.png) to this repo and replace the image URL with:
+If the dynamic preview for uni.isuruhub.site:8443 doesn’t load (port/SSL/rate-limit issues), upload a screenshot
+to this repo (e.g., uni-preview.png) and replace the image URL with the raw link below:
+
 [![Website Preview of uni.isuruhub.site:8443](https://raw.githubusercontent.com/isuru709/isuru709/main/uni-preview.png)](https://uni.isuruhub.site:8443)
 -->
 
@@ -54,19 +57,18 @@ If the dynamic preview for uni.isuruhub.site:8443 doesn't load due to rate limit
 
 ### 🌱 Currently Learning
 - Advanced **C++ & OOP**
-- **Cloud Computing and Hosting**
-- **Advanced DataBase and Management Systems**
-- **Basic of Machine Learning**
-- **Operating Systems** (concepts & implementation)  
-- Basics of **AI & Machine Learning**  
+- **Operating Systems** (concepts & implementation)
+- **Cloud Computing & Hosting**
+- **Database Systems & Management**
+- Basics of **AI & Machine Learning**
 
 ---
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/isuru-sampath-563095245/) 
 - 📧 Email: `isurudananjaya907@gmail.com`
-- Whatsapp: +94702189822
+- 📱 WhatsApp: +94 70 218 9822
 
 ---
 
-⭐️ *“Keep learning, keep building, and keep growing!”*
+⭐️ “Keep learning, keep building, and keep growing!”
