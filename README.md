@@ -32,6 +32,16 @@
 
 ---
 
+### 📚 Languages Used (Summary)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isuru709&layout=compact&theme=radical)
+
+---
+
+### 🌐 isuruhub.site — Preview
+[![Website Preview of isuruhub.site](https://s0.wp.com/mshots/v1/https%3A%2F%2Fisuruhub.site?width=1000)](https://isuruhub.site/)
+
+---
+
 ### 🌱 Currently Learning
 - Advanced **C++ & OOP**  
 - **Operating Systems** (concepts & implementation)  
