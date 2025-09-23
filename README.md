@@ -40,11 +40,15 @@
 ### 🌐 Website Previews
 
 - isuruhub.site  
-  [![Website Preview of isuruhub.site](https://image.thum.io/get/width/1000/https://github.com/isuru709/isuru709/blob/main/Screenshot%20(36).png)](https://github.com/isuru709/isuru709/blob/main/Screenshot%20(36).png)
+  [![Website Preview of isuruhub.site](https://raw.githubusercontent.com/isuru709/isuru709/main/Screenshot%20%2836%29.png)](https://isuruhub.site)
 
 - uni.isuruhub.site:8443  
   [![Website Preview of uni.isuruhub.site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
 
+<!--
+If the dynamic preview for uni.isuruhub.site:8443 doesn't load due to rate limits/SSL/port, upload a screenshot (e.g., uni-preview.png) to this repo and replace the image URL with:
+[![Website Preview of uni.isuruhub.site:8443](https://raw.githubusercontent.com/isuru709/isuru709/main/uni-preview.png)](https://uni.isuruhub.site:8443)
+-->
 
 ---
 
