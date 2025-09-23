@@ -5,8 +5,8 @@
 🎓 CSE Undergraduate at **University of Moratuwa**  
 🌐 My Public Softwares: [My Website](https://isuruhub.site/)  
 🌐 Universal Video Downloader: [Uni Video Downloader](https://uni.isuruhub.site:8443/)  
-🌐 My Privet Domain:[isuruhub.site](http://isuruhub.site/)                                                                            
-🌐 My Privet Server:159.89.195.242                                                                                                 
+🌐 My Private Domain: [isuruhub.site](https://isuruhub.site/)                                                                            
+🌐 My Private Server: 159.89.195.242                                                                                                 
 
 💡 I’m passionate about:
 - 🚀 Software Development  
@@ -37,8 +37,16 @@
 
 ---
 
-### 🌐 isuruhub.site — Preview
-[![Website Preview of isuruhub.site](https://s0.wp.com/mshots/v1/https%3A%2F%2Fisuruhub.site?width=1000)](https://isuruhub.site/)
+### 🌐 Website Previews
+Note: Switched from WordPress mShots to a direct screenshot service to avoid the “Generating preview…” issue.
+
+- isuruhub.site  
+  [![Website Preview of isuruhub.site](https://image.thum.io/get/width/1000/https://isuruhub.site)](https://isuruhub.site)
+
+- uni.isuruhub.site:8443  
+  [![Website Preview of uni.isuruhub.site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
+
+If these previews don’t load in your network, consider adding static screenshots to the repo (e.g., assets/isuruhub-preview.png and assets/uni-preview.png) and replace the image URLs above with those files.
 
 ---
 
