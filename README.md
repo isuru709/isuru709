@@ -40,7 +40,7 @@
 ### 🌐 Website Previews
 
 - isuruhub.site  
-  [![Website Preview of isuruhub.site](https://image.thum.io/get/width/1000/https://isuruhub.site)](https://isuruhub.site)
+  [![Website Preview of isuruhub.site](https://image.thum.io/get/width/1000/https://github.com/isuru709/isuru709/blob/main/Screenshot%20(36).png)](https://github.com/isuru709/isuru709/blob/main/Screenshot%20(36).png)
 
 - uni.isuruhub.site:8443  
   [![Website Preview of uni.isuruhub.site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
