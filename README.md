@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 <!-- Tip: bump v=3 to v=4 if you need to force-refresh the cached image -->
-![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=3)
+![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=4)
 
 ---
 
