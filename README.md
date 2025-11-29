@@ -44,7 +44,7 @@
 - **[SL-NET VPN Client](https://github.com/isuru709/SL-NET-By-Isuru-VPN-Client)**  
   OpenSSL-based VPN client supporting SSH/TLS, Vless, and Vmess protocols
 
-- **[V2ray](https://github.com/isuru709/V2ray)**  
+- **[V2ray](https://github. com/isuru709/V2ray)**  
   VPN virtual machine setup and configuration
 
 ### 💼 Business Applications
@@ -71,7 +71,7 @@
 - **[Screen Recorder](https://github.com/isuru709/Screen-Recoder)**  
   Lightweight screen recording utility
 
-- **[Shutdown Scheduler](https://github.com/isuru709/Shutdown-Sheduler)**  
+- **[Shutdown Scheduler](https://github. com/isuru709/Shutdown-Sheduler)**  
   Schedule shutdowns, restarts, and sleep modes
 
 - **[Astronomy](https://github.com/isuru709/Astronomy)**  
@@ -80,15 +80,16 @@
 ---
 
 ## 🔧 Technologies & Tools
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img. shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields. io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields. io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1? style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields. io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![HTML5](https://img. shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -116,18 +117,11 @@
 
 ## 🌐 Website Previews
 
-### 🏠 Main Website - isuruhub.site  
+### 🏠 Main Website - isuruhub. site  
 [![Website Preview of isuruhub.site](https://raw.githubusercontent.com/isuru709/isuru709/main/Screenshot%20%2836%29.png)](https://isuruhub.site)
 
 ### 📥 Universal Video Downloader - uni.isuruhub.site:8443  
-[![Website Preview of uni.isuruhub.site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
-
-<!--
-If the dynamic preview for uni.isuruhub.site:8443 doesn't load (port/SSL/rate-limit issues), upload a screenshot
-to this repo (e.g., uni-preview.png) and replace the image URL with the raw link below:
-
-[![Website Preview of uni. isuruhub.site:8443](https://raw.githubusercontent. com/isuru709/isuru709/main/uni-preview. png)](https://uni.isuruhub.site:8443)
--->
+[![Website Preview of uni.isuruhub. site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
 
 ---
 
@@ -152,9 +146,9 @@ to this repo (e.g., uni-preview.png) and replace the image URL with the raw link
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-sampath-563095245/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurudananjaya907@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurudananjaya907@gmail. com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94702189822)
-[![Website](https://img.shields.io/badge/-Website-000000? style=for-the-badge&logo=google-chrome&logoColor=white)](https://isuruhub.site)
+[![Website](https://img. shields.io/badge/-Website-000000? style=for-the-badge&logo=google-chrome&logoColor=white)](https://isuruhub.site)
 
 </div>
 
