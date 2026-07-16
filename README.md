@@ -6,7 +6,7 @@
 🌐 Public Software: [My Website](https://isuruhub.site/)  
 🌐 Universal Video Downloader: [Uni Video Downloader](https://uni.isuruhub.site:8443/)  
 🌐 Private Domain: [isuruhub.site](https://isuruhub.site/)                                                                            
-🌐 Private Server: 159. 89.195.242
+🌐 Private Server: ################
 
 💡 I'm passionate about:
 - 🚀 Software Development  
