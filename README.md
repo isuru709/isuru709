@@ -100,19 +100,9 @@
 
 <div align="center">
 
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=isuru709&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-## 📚 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isuru709&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)
+![Followers](https://img.shields.io/github/followers/isuru709?style=for-the-badge&color=blueviolet&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/isuru709?style=for-the-badge&color=blueviolet&labelColor=0d1117)
+![Top Language](https://img.shields.io/github/languages/top/isuru709/Isuru-s-VC?style=for-the-badge&color=blueviolet&labelColor=0d1117)
 
 </div>
 
