@@ -102,7 +102,7 @@
 
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isuru709&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=isuru709&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -158,7 +158,7 @@
 
 ### 💻 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/isuru709/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=isuru709&color=blueviolet&style=flat)
 
 </div>
 
