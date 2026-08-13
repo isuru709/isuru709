@@ -1,80 +1,77 @@
-# Hi there 👋 Welcome to my GitHub! 
+# Hi there 👋 Welcome to my GitHub!
 
-## 👨‍💻 I'm Sampath (Isuru)
+## 👨‍💻 I'm Isuru Wickramage
 
-🎓 CSE Undergraduate at **University of Moratuwa**  
-🌐 Public Software: [My Website](https://isuruhub.site/)  
-🌐 Universal Video Downloader: [Uni Video Downloader](https://uni.isuruhub.site:8443/)  
-🌐 Private Domain: [isuruhub.site](https://isuruhub.site/)                                                                            
-🌐 Private Server: ################
+🎓 CSE Undergraduate at **University of Moratuwa**
+🌐 Portfolio: [isuruhub.site](https://isuruhub.site/)
 
 💡 I'm passionate about:
-- 🚀 Software Development  
-- 🤖 Artificial Intelligence & Machine Learning  
-- ⚙️ Systems Design & Engineering  
-- 🌍 Open Source Projects  
+- 🚀 Software Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚙️ Systems Design & Engineering
+- 🌍 Open Source Projects
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🎬 Media Tools Suite
-- **[Isuru's VC](https://github.com/isuru709/Isuru-s-VC)** ⭐  
+- **[Isuru's VC](https://github.com/isuru709/Isuru-s-VC)** ⭐
   GPU-accelerated video converter and high compression tool for efficient media processing
-  
-- **[Isuru's IC](https://github.com/isuru709/Isuru-s-IC)**  
+
+- **[Isuru's IC](https://github.com/isuru709/Isuru-s-IC)**
   All-in-one image converter with integrated downloader capabilities
-  
-- **[Isuru's AC](https://github.com/isuru709/Isuru-s-AC)**  
+
+- **[Isuru's AC](https://github.com/isuru709/Isuru-s-AC)**
   Comprehensive audio converter and downloader for all your audio needs
 
-- **[MP4-Toolnix-Pro](https://github.com/isuru709/MP4-Toolnix-Pro)** ⭐  
+- **[MP4-Toolnix-Pro](https://github.com/isuru709/MP4-Toolnix-Pro)** ⭐
   Instant video remuxer for any format conversion
 
-- **[Universal Media Player](https://github.com/isuru709/Universal_Media_Player)**  
+- **[Universal Media Player](https://github.com/isuru709/Universal_Media_Player)**
   Play anything, anywhere - universal media playback solution
 
 ### 🌐 Network & Download Tools
-- **[Uni-Downloader-VM](https://github.com/isuru709/Uni-Downloader-VM)** ⭐  
+- **[Uni-Downloader-VM](https://github.com/isuru709/Uni-Downloader-VM)** ⭐
   Step-by-step universal video downloader setup and deployment
 
-- **[TorrentFlow](https://github.com/isuru709/TorrentFlow)**  
+- **[TorrentFlow](https://github.com/isuru709/TorrentFlow)**
   Universal torrent downloader with advanced features
 
-- **[SL-NET VPN Client](https://github.com/isuru709/SL-NET-By-Isuru-VPN-Client)**  
+- **[SL-NET VPN Client](https://github.com/isuru709/SL-NET-By-Isuru-VPN-Client)**
   OpenSSL-based VPN client supporting SSH/TLS, Vless, and Vmess protocols
 
-- **[V2ray](https://github. com/isuru709/V2ray)**  
+- **[V2ray](https://github.com/isuru709/V2ray)**
   VPN virtual machine setup and configuration
 
 ### 💼 Business Applications
-- **[Inventory Management System](https://github.com/isuru709/inventory-management-system)**  
+- **[Inventory Management System](https://github.com/isuru709/inventory-management-system)**
   MySQL-powered inventory tracking and management solution
 
-- **[Hospital Management System](https://github.com/isuru709/New_HMS)**  
+- **[Hospital Management System](https://github.com/isuru709/New_HMS)**
   Comprehensive hospital management platform
 
-- **[Student Grading APP](https://github.com/isuru709/Student-Grading-APP)**  
+- **[Student Grading APP](https://github.com/isuru709/Student-Grading-APP)**
   Automated student grading and assessment system
 
 ### ⚙️ Hardware & Systems
-- **[Nano-Processor Project](https://github.com/isuru709/Nano-Processor-Project)**  
+- **[Nano-Processor Project](https://github.com/isuru709/Nano-Processor-Project)**
   Custom-designed nano-processor with complete hardware implementation
 
-- **[PDDL - Robotic Train AI](https://github.com/isuru709/PDDL)**  
+- **[PDDL - Robotic Train AI](https://github.com/isuru709/PDDL)**
   AI-powered robotic train control and planning system
 
 ### 🛠️ Utilities
-- **[Chrome Extension](https://github.com/isuru709/Chrome-Extention)**  
+- **[Chrome Extension](https://github.com/isuru709/Chrome-Extention)**
   All-in-one browser extension for enhanced productivity
 
-- **[Screen Recorder](https://github.com/isuru709/Screen-Recoder)**  
+- **[Screen Recorder](https://github.com/isuru709/Screen-Recoder)**
   Lightweight screen recording utility
 
-- **[Shutdown Scheduler](https://github. com/isuru709/Shutdown-Sheduler)**  
+- **[Shutdown Scheduler](https://github.com/isuru709/Shutdown-Sheduler)**
   Schedule shutdowns, restarts, and sleep modes
 
-- **[Astronomy](https://github.com/isuru709/Astronomy)**  
+- **[Astronomy](https://github.com/isuru709/Astronomy)**
   All planets in one place - educational astronomy platform
 
 ---
@@ -84,12 +81,18 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields. io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1? style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields. io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![HTML5](https://img. shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -97,9 +100,9 @@
 
 <div align="center">
 
-![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api? username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuru709&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=isuru709&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isuru709&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -115,13 +118,10 @@
 
 ---
 
-## 🌐 Website Previews
+## 🌐 Website Preview
 
-### 🏠 Main Website - isuruhub. site  
+### 🏠 Portfolio - isuruhub.site
 [![Website Preview of isuruhub.site](https://raw.githubusercontent.com/isuru709/isuru709/main/Screenshot%20%2836%29.png)](https://isuruhub.site)
-
-### 📥 Universal Video Downloader - uni.isuruhub.site:8443  
-[![Website Preview of uni.isuruhub. site:8443](https://image.thum.io/get/width/1000/https://uni.isuruhub.site:8443)](https://uni.isuruhub.site:8443)
 
 ---
 
@@ -146,9 +146,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-sampath-563095245/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurudananjaya907@gmail. com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isurudananjaya907@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94702189822)
-[![Website](https://img. shields.io/badge/-Website-000000? style=for-the-badge&logo=google-chrome&logoColor=white)](https://isuruhub.site)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isuruhub.site)
 
 </div>
 
